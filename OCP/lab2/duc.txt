@@ -1,0 +1,2 @@
+/home/shinchan/.fzf/bin/fzf
+/home/shinchan/.fzf/bin/fzf-tmux

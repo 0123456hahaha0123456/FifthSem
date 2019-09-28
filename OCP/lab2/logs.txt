@@ -1,0 +1,41 @@
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+find: invalid mode ‘+111’
+script1.sh: line 14: gfind: command not found
+script1.sh: line 14: gfind: command not found
+script1.sh: line 14: gfind: command not found
+script1.sh: line 14: gfind: command not found
+script1.sh: line 14: gfind: command not found
+script1.sh: line 14: gfind: command not found
+script1.sh: line 14: gfind: command not found
+script1.sh: line 14: gfind: command not found
+script1.sh: line 14: gfind: command not found
+script1.sh: line 14: gfind: command not found
+find: unknown predicate `-typem'
+find: unknown predicate `-typem'
+find: unknown predicate `-typem'
+find: unknown predicate `-typem'
+find: unknown predicate `-typem'
+find: unknown predicate `-typem'
+find: unknown predicate `-typem'
+find: unknown predicate `-typem'
+find: unknown predicate `-typem'
+find: unknown predicate `-typem'
